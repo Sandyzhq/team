@@ -1,0 +1,62 @@
+[
+	{
+		"elec_name" : "Macbook Pro 15 inch",
+		"elec_belong_to" : "姗娣",
+		"borrow_to" : "莫如",
+		"borrow_time" : "2016.4.28"
+	},
+	{
+		"elec_name" : "iPhone 5s（白）",
+		"elec_belong_to" : "姗娣",
+		"borrow_to" : "空",
+		"borrow_time" : "空"
+	},
+	{
+		"elec_name" : "iPhone 5s（白）",
+		"elec_belong_to" : "莫如",
+		"borrow_to" : "空",
+		"borrow_time" : "空"
+	},
+	{
+		"elec_name" : "iPhone 5c（粉）",
+		"elec_belong_to" : "宣美",
+		"borrow_to" : "空",
+		"borrow_time" : "空"
+	},
+	{
+		"elec_name" : "小米Note",
+		"elec_belong_to" : "姗娣",
+		"borrow_to" : "空",
+		"borrow_time" : "空"
+	},
+	{
+		"elec_name" : "iPhone 5s（灰）",
+		"elec_belong_to" : "观铃",
+		"borrow_to" : "空",
+		"borrow_time" : "空"
+	},
+	{
+		"elec_name" : "华为荣耀",
+		"elec_belong_to" : "莫如",
+		"borrow_to" : "空",
+		"borrow_time" : "空"
+	},
+	{
+		"elec_name" : "三星",
+		"elec_belong_to" : "宣美",
+		"borrow_to" : "空",
+		"borrow_time" : "空"
+	},
+	{
+		"elec_name" : "小米",
+		"elec_belong_to" : "姗娣",
+		"borrow_to" : "空",
+		"borrow_time" : "空"
+	},
+	{
+		"elec_name" : "三星",
+		"elec_belong_to" : "观铃",
+		"borrow_to" : "空",
+		"borrow_time" : "空"
+	}
+]
